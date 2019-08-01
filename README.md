@@ -14,3 +14,4 @@ true.
 In case 1 we ask to find all X for which the clause is true, i.e. it's a search problem. 
 
 In case 2 we simply ask wether or not the clause is true, i.e. it's a decision problem.
+
