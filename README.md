@@ -3,7 +3,7 @@ A small interpreter that takes as input some algebraic data-type that represents
 In essence this is an interpreter that behaves like the [Prolog](https://www.wikiwand.com/en/Prolog) one, 
 which is a logical programming language with roots in first order logic.
 
-## Example
+## Example  
 ```
 1 ?- suitAndTieGentleman(X).
 X = bunk.
